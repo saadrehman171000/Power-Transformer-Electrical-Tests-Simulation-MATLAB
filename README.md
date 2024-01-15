@@ -5,6 +5,7 @@ This repository contains MATLAB code for simulating power transformer electrical
 **Key Features:**
 Transformer Model: A detailed MATLAB model of a power transformer, including parameters such as resistance, inductance, mutual inductance, capacitance, and specifications like nominal voltage, power, and frequency.
 **Simulation Scenarios:** Three specific scenarios simulated:
+
 	Scenario 1: No Faults (Normal Operation)
 
 	Scenario 2: Winding Fault in Primary Winding
